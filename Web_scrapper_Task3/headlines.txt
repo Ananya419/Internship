@@ -1,0 +1,2 @@
+# This file will contain the scraped headlines from the news website.
+# Run web_scraper.py to update this file.
