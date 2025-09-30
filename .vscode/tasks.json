@@ -1,0 +1,15 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "shell",
+			"label": "Run Flask Portfolio Website",
+			"command": "C:/Users/sants/OneDrive/Desktop/_/Internship/.venv/Scripts/python.exe",
+			"args": [
+				"app.py"
+			],
+			"group": "build",
+			"isBackground": true
+		}
+	]
+}
